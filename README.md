@@ -76,11 +76,11 @@
 
 ```bash
 # Clone the repository (if applicable)
-git clone https://github.com/yourusername/gpu-info.git
+git clone https://github.com/infrabrew/gpu-info.git
 cd gpu-info
 
 # Or download the script directly
-wget https://raw.githubusercontent.com/yourusername/gpu-info/main/gpu_info.py
+wget https://raw.githubusercontent.com/infrabrew/gpu-info/main/gpu_info.py
 ```
 
 ### Step 2: Install Dependencies
