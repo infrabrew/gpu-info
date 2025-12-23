@@ -389,14 +389,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **AMD**: For ROCm SMI tools
 - **Community**: For testing across various hardware configurations
 
----
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/gpu-info/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/gpu-info/discussions)
-- **Email**: support@example.com
-
----
 
 **Last Updated**: December 2025 | **Version**: 1.0.0
